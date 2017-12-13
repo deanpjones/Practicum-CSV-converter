@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WPWS_Project2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PATH_DEFAULT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\_FTP\OJ\INBOUND</Value>
+    </Setting>
+    <Setting Name="PATH_COMPLETED" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\_FTP\OJ\INBOUND\Completed</Value>
+    </Setting>
+    <Setting Name="PATH_OUTBOUND" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\_FTP\OJ\OUTBOUND</Value>
+    </Setting>
+    <Setting Name="PATH_SENT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\_FTP\OJ\OUTBOUND\Sent</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

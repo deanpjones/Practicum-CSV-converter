@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="WPWS_Project2.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+    <userSettings>
+        <WPWS_Project2.Properties.Settings>
+            <setting name="PATH_DEFAULT" serializeAs="String">
+                <value>C:\_FTP\OJ\INBOUND</value>
+            </setting>
+            <setting name="PATH_COMPLETED" serializeAs="String">
+                <value>C:\_FTP\OJ\INBOUND\Completed</value>
+            </setting>
+            <setting name="PATH_OUTBOUND" serializeAs="String">
+                <value>C:\_FTP\OJ\OUTBOUND</value>
+            </setting>
+            <setting name="PATH_SENT" serializeAs="String">
+                <value>C:\_FTP\OJ\OUTBOUND\Sent</value>
+            </setting>
+        </WPWS_Project2.Properties.Settings>
+    </userSettings>
+</configuration>

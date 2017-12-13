@@ -1,0 +1,18 @@
+c:\users\pythagoras\documents\visual studio 2017\Projects\WPWS_Project2\WPWS_Project2\bin\Debug\WPWS_Project2.exe.config
+c:\users\pythagoras\documents\visual studio 2017\Projects\WPWS_Project2\WPWS_Project2\bin\Debug\WPWS_Project2.exe
+c:\users\pythagoras\documents\visual studio 2017\Projects\WPWS_Project2\WPWS_Project2\bin\Debug\WPWS_Project2.pdb
+c:\users\pythagoras\documents\visual studio 2017\Projects\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.csprojResolveAssemblyReference.cache
+c:\users\pythagoras\documents\visual studio 2017\Projects\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.exe
+c:\users\pythagoras\documents\visual studio 2017\Projects\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.pdb
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\bin\Debug\WPWS_Project2.exe.config
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\bin\Debug\WPWS_Project2.exe
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\bin\Debug\WPWS_Project2.pdb
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.csprojResolveAssemblyReference.cache
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.exe
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.pdb
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.Properties.Resources.resources
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.csproj.GenerateResource.Cache
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\bin\Debug\WPWS_Project2.exe.manifest
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\bin\Debug\WPWS_Project2.application
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.exe.manifest
+C:\Users\Pythagoras\Desktop\Practicum Docs\701 - VIN65\Csharp\WPWS_Project2\WPWS_Project2\obj\Debug\WPWS_Project2.application
